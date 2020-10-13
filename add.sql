@@ -1,0 +1,1 @@
+ALTER TABLE `staff` ADD `zoom_id` TEXT NULL DEFAULT NULL AFTER `zoom_api_secret`;

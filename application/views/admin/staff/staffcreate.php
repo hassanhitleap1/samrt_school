@@ -112,6 +112,14 @@
                                                     <span class="text-danger"><?php echo form_error('surname'); ?></span>
                                                 </div>
                                             </div>
+                                      
+                                            <div class="col-md-3">
+                                                <div class="form-group">
+                                                    <label for="exampleInputEmail1"><?php echo 'zoom id'; ?></label>
+                                                    <input id="zoom_id" name="zoom_id" placeholder="" type="text" class="form-control"  value="<?php echo set_value('zoom_id') ?>" />
+                                                    <span class="text-danger"><?php echo form_error('zoom_id'); ?></span>
+                                                </div>
+                                            </div>
                                         <?php } if ($sch_setting->staff_father_name) { ?>
                                             <div class="col-md-3">
                                                 <div class="form-group">

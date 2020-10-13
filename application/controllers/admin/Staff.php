@@ -405,6 +405,7 @@ class Staff extends Admin_Controller {
         }
 
         $this->form_validation->set_rules('name', $this->lang->line('name'), 'trim|required|xss_clean');
+        $this->form_validation->set_rules('zoom_id', $this->lang->line('zoom_id'), 'trim');
         $this->form_validation->set_rules('role', $this->lang->line('role'), 'trim|required|xss_clean');
         $this->form_validation->set_rules('gender', $this->lang->line('gender'), 'trim|required|xss_clean');
         $this->form_validation->set_rules('dob', $this->lang->line('date_of_birth'), 'trim|required|xss_clean');
@@ -450,6 +451,7 @@ class Staff extends Admin_Controller {
             $designation = $this->input->post("designation");
             $role = $this->input->post("role");
             $name = $this->input->post("name");
+            $zoom_id = $this->input->post("zoom_id");
             $gender = $this->input->post("gender");
             $marital_status = $this->input->post("marital_status");
             $dob = $this->input->post("dob");
@@ -549,6 +551,11 @@ class Staff extends Admin_Controller {
             if (isset($contact_no)) {
 
                 $data_insert['contact_no'] = $contact_no;
+            }
+
+            if (isset($zoom_id)) {
+
+                $data_insert['zoom_id'] = $zoom_id;
             }
 
             if (isset($emergency_no)) {
@@ -1052,6 +1059,7 @@ class Staff extends Admin_Controller {
         }
 
         $this->form_validation->set_rules('name', 'Name', 'trim|required|xss_clean');
+        $this->form_validation->set_rules('zoom_id', 'zoom_id', 'trim');
         $this->form_validation->set_rules('role', 'Role', 'trim|required|xss_clean');
         $this->form_validation->set_rules('gender', 'Gender', 'trim|required|xss_clean');
         $this->form_validation->set_rules('dob', 'Date of Birth', 'trim|required|xss_clean');
@@ -1078,6 +1086,7 @@ class Staff extends Admin_Controller {
         } else { 
  
             $employee_id = $this->input->post("employee_id");
+            $zoom_id = $this->input->post("zoom_id");
             $department = $this->input->post("department");
             $designation = $this->input->post("designation");
             $role = $this->input->post("role");
@@ -1136,6 +1145,7 @@ class Staff extends Admin_Controller {
                 'qualification' => $qualification,
                 'work_exp' => $work_exp,
                 'name' => $name,
+                'zoom_id'=>$zoom_id,
                 'contact_no' => $contact_no,
                 'emergency_contact_no' => $emergency_no,
                 'email' => $email,
