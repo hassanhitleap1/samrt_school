@@ -1443,4 +1443,13 @@ $lang['setting'] = "Beállítás" ;
 $lang['host'] = "A Host" ;
 $lang['online_classes'] = "Élő Osztályok," ;
 $lang['online_meeting'] = "Élő Találkozók" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "A most" ;
+$lang['waiting'] = "A várakozás" ;
+$lang['started'] = "Kezdődött" ;
+$lang['use_zoom_client_app'] = "Zoom Használata Kliens App" ;
+$lang['teacher_api_credential'] = "A Tanár Api Hitelesítő" ;
+$lang['meeting_not_started'] = "Találkozó Nem Indult" ;
+ ?>

@@ -1442,5 +1442,14 @@ $lang['zoom_live_classes'] = "Zoom Lezioni In Diretta" ;
 $lang['setting'] = "Impostazioni" ;
 $lang['host'] = "Host" ;
 $lang['online_classes'] = "Lezioni In Diretta" ;
-$lang['online_meeting'] = "Incontri Dal Vivo" ;
-?>
+$lang['online_meeting'] = "Incontri Dal Vivo" ; 
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Ora" ;
+$lang['waiting'] = "In attesa" ;
+$lang['started'] = "Iniziato" ;
+$lang['use_zoom_client_app'] = "Utilizzare Lo Zoom Client App" ;
+$lang['teacher_api_credential'] = "LInsegnante Di Api Credenziali" ;
+$lang['meeting_not_started'] = "L Incontro Non Iniziato" ;
+ ?>

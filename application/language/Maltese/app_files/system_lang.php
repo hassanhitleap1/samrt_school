@@ -1443,4 +1443,13 @@ $lang['setting'] = "Istabbiliment" ;
 $lang['host'] = "Host" ;
 $lang['online_classes'] = "Klassijiet Ħajjin" ;
 $lang['online_meeting'] = "Ngħixu L-Laqgħat" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Issa" ;
+$lang['waiting'] = "Stennija" ;
+$lang['started'] = "Beda" ;
+$lang['use_zoom_client_app'] = "L-Użu Jiffukar-Klijent App" ;
+$lang['teacher_api_credential'] = "Tal-Għalliema Api-Kredenzjali" ;
+$lang['meeting_not_started'] = "Il-Laqgħa Ma Bdiet Il -" ;
+ ?>

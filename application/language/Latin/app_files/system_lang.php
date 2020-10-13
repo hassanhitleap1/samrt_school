@@ -1443,4 +1443,13 @@ $lang['setting'] = "Occasum" ;
 $lang['host'] = "Exercitus" ;
 $lang['online_classes'] = "Vivere Classes" ;
 $lang['online_meeting'] = "Vivere Conventus" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Nunc" ;
+$lang['waiting'] = "Expectantes" ;
+$lang['started'] = "Tincidunt" ;
+$lang['use_zoom_client_app'] = "Uti Zoom Huius App" ;
+$lang['teacher_api_credential'] = "Magister Api Mandatum" ;
+$lang['meeting_not_started'] = "Conventus Non Coepi" ;
+ ?>

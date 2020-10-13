@@ -1442,5 +1442,14 @@ $lang['zoom_live_classes'] = "Live Sinflar Zoom" ;
 $lang['setting'] = "Belgilash" ;
 $lang['host'] = "Mezbon" ;
 $lang['online_classes'] = "Live Sinflar" ;
-$lang['online_meeting'] = "Jonli Uchrashuvlar" ;
-?>
+$lang['online_meeting'] = "Jonli Uchrashuvlar" ; 
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Endi" ;
+$lang['waiting'] = "Kutish" ;
+$lang['started'] = "Boshladi" ;
+$lang['use_zoom_client_app'] = "Foydalanish Zoom Mijoz Ilova" ;
+$lang['teacher_api_credential'] = "O'qituvchi Api Tavsiyanoma" ;
+$lang['meeting_not_started'] = "Uchrashuv Emas, Balki Boshladi" ;
+ ?>

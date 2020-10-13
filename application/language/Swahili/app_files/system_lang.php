@@ -1443,4 +1443,13 @@ $lang['setting'] = "Kuweka" ;
 $lang['host'] = "Jeshi" ;
 $lang['online_classes'] = "Live Madarasa" ;
 $lang['online_meeting'] = "Live Mikutano" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Sasa" ;
+$lang['waiting'] = "Kusubiri" ;
+$lang['started'] = "Kuanza" ;
+$lang['use_zoom_client_app'] = "Kutumia Zoom Mteja Programu" ;
+$lang['teacher_api_credential'] = "Mwalimu Api Credential" ;
+$lang['meeting_not_started'] = "Mkutano Si Kuanza" ;
+ ?>

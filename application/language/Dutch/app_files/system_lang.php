@@ -1443,4 +1443,13 @@ $lang['setting'] = "Instelling" ;
 $lang['host'] = "Host" ;
 $lang['online_classes'] = "Live Lessen" ;
 $lang['online_meeting'] = "Live Vergaderingen" ;
-?>
+
+#Zoom Live Class 2.0 
+
+$lang['now'] = "Nu" ;
+$lang['waiting'] = "In de wacht" ;
+$lang['started'] = "De slag" ;
+$lang['use_zoom_client_app'] = "Gebruik De Zoom-Client App" ;
+$lang['teacher_api_credential'] = "Leraar Api Referentie" ;
+$lang['meeting_not_started'] = "Vergadering Niet Gestart" ;
+ ?>

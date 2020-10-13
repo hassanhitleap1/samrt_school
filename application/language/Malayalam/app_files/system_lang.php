@@ -1443,4 +1443,13 @@ $lang['setting'] = "ക്രമീകരണം" ;
 $lang['host'] = "ഹോസ്റ്റ്" ;
 $lang['online_classes'] = "ലൈവ് ക്ലാസുകൾ" ;
 $lang['online_meeting'] = "Live Meetings" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "ഇപ്പോൾ" ;
+$lang['waiting'] = "കാത്തിരിക്കുന്നു" ;
+$lang['started'] = "തുടങ്ങി." ;
+$lang['use_zoom_client_app'] = "Use സൂം ക്ലയന്റ് പ്രോഗ്രാം" ;
+$lang['teacher_api_credential'] = "Teacher Api യോഗ്യതാ" ;
+$lang['meeting_not_started'] = "മീറ്റിങ് Not Started" ;
+ ?>

@@ -1443,4 +1443,13 @@ $lang['setting'] ="จัดฉาก" ;
 $lang['host'] ="เครื่อง" ;
 $lang['online_classes'] ="ใช้ชีวิตไปเรียน" ;
 $lang['online_meeting'] ="อยู่ประชุม" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] ="ตอนนี้" ;
+$lang['waiting'] ="รอคอย" ;
+$lang['started'] ="เริ่มต้น" ;
+$lang['use_zoom_client_app'] ="ใช้ย่อลูกค้าของแอพฯ" ;
+$lang['teacher_api_credential'] ="ครูสอนรูปแบบ Api Credential" ;
+$lang['meeting_not_started'] ="ประชุมไม่ได้เริ่มต้น" ;
+ ?>

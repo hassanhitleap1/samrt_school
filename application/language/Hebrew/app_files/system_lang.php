@@ -1443,4 +1443,13 @@ $lang['setting'] = "הגדרה" ;
 $lang['host'] = "מארח" ;
 $lang['online_classes'] = "לחיות שיעורים" ;
 $lang['online_meeting'] = "פגישות חי" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "עכשיו" ;
+$lang['waiting'] = "";
+$lang['started'] = "התחיל" ;
+$lang['use_zoom_client_app'] = "להשתמש בזום הלקוח App" ;
+$lang['teacher_api_credential'] = "המורה Api אישורים" ;
+$lang['meeting_not_started'] = "פגישה לא התחיל" ;
+ ?>

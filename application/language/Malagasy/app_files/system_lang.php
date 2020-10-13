@@ -1443,4 +1443,13 @@ $lang['setting'] = "Ny fametrahana" ;
 $lang['host'] = "Miaramila" ;
 $lang['online_classes'] = "Live Kilasy" ;
 $lang['online_meeting'] = "Velona Ny Fivorian'ny" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Izao ankehitriny izao" ;
+$lang['waiting'] = "Miandry" ;
+$lang['started'] = "Nanomboka" ;
+$lang['use_zoom_client_app'] = "Ny Fampiasana Zoom Mpanjifa Fampiharana" ;
+$lang['teacher_api_credential'] = "Mpampianatra Api Fahazoan-Dalany" ;
+$lang['meeting_not_started'] = "Fivoriana Tsy Nanomboka" ;
+ ?>

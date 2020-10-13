@@ -1443,4 +1443,13 @@ $lang['setting'] = "Tautuhinga" ;
 $lang['host'] = "Ope" ;
 $lang['online_classes'] = "Akomanga Ora" ;
 $lang['online_meeting'] = "Te Ora Mau Pureraa" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "I teie nei" ;
+$lang['waiting'] = "E tatari ana" ;
+$lang['started'] = "Tīmata" ;
+$lang['use_zoom_client_app'] = "Te Whakamahi I Topa Kiritaki App" ;
+$lang['teacher_api_credential'] = "E Te Kaiwhakaako Api Taipitopito Tuakiri" ;
+$lang['meeting_not_started'] = "Hui E Tīmata" ;
+ ?>

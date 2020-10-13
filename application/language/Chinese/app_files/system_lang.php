@@ -1443,4 +1443,13 @@ $lang['setting'] ="设定" ;
 $lang['host'] ="主机" ;
 $lang['online_classes'] ="生活课程" ;
 $lang['online_meeting'] ="活的会议" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] ="现在" ;
+$lang['waiting'] ="等待" ;
+$lang['started'] ="开始" ;
+$lang['use_zoom_client_app'] ="使用缩小客户的应用程序" ;
+$lang['teacher_api_credential'] ="老师Api凭证" ;
+$lang['meeting_not_started'] ="会议未开始" ;
+ ?>

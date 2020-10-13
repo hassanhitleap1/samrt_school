@@ -1444,4 +1444,13 @@ $lang['setting'] = "Nastavení" ;
 $lang['host'] = "Host" ;
 $lang['online_classes'] = "Živé Vyučování" ;
 $lang['online_meeting'] = "Živé Setkání" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Teď" ;
+$lang['waiting'] = "Čekání" ;
+$lang['started'] = "Spuštěno" ;
+$lang['use_zoom_client_app'] = "Použití Zoom Klient App" ;
+$lang['teacher_api_credential'] = "Učitel Api Pověření" ;
+$lang['meeting_not_started'] = "Setkání Není Spuštěna" ;
+ ?>

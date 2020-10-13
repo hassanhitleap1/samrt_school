@@ -1442,5 +1442,14 @@ $lang['zoom_live_classes'] = "ਜ਼ੂਮ ਲਾਈਵ ਕਲਾਸ" ;
 $lang['setting'] = "ਸੈਟਿੰਗ" ;
 $lang['host'] = "ਹੋਸਟ" ;
 $lang['online_classes'] = "ਲਾਈਵ ਕਲਾਸ" ;
-$lang['online_meeting'] = "ਲਾਈਵ ਮੀਟਿੰਗ" ;
-?>
+$lang['online_meeting'] = "ਲਾਈਵ ਮੀਟਿੰਗ" ; 
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "ਹੁਣ" ;
+$lang['waiting'] = "ਉਡੀਕ" ;
+$lang['started'] = "ਸ਼ੁਰੂ" ;
+$lang['use_zoom_client_app'] = "ਵਰਤਣ ਜ਼ੂਮ ਕਲਾਇਟ App" ;
+$lang['teacher_api_credential'] = "ਗੁਰੂ Api ਪਰੀਚੈ" ;
+$lang['meeting_not_started'] = "ਮੀਟਿੰਗ ਨੂੰ ਸ਼ੁਰੂ ਕੀਤਾ, ਨਾ" ;
+ ?>

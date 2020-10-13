@@ -1444,4 +1444,13 @@ $lang['setting'] = "Setting" ;
 $lang['host'] = "Panon" ;
 $lang['online_classes'] = "Live Mga Klase" ;
 $lang['online_meeting'] = "Pagpuyo Nga Mga Miting" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Karon" ;
+$lang['waiting'] = "Paghulat" ;
+$lang['started'] = "Pagsugod" ;
+$lang['use_zoom_client_app'] = "Sa Paggamit Sa Zoom Kliyente App" ;
+$lang['teacher_api_credential'] = "Magtutudlo Api Credential" ;
+$lang['meeting_not_started'] = "Sa Miting Sa Wala Nagsugod" ;
+ ?>

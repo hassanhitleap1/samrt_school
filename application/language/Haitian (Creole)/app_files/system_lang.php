@@ -1443,4 +1443,13 @@ $lang['setting'] = "Anviwònman" ;
 $lang['host'] = "Lame a" ;
 $lang['online_classes'] = "Viv Klas" ;
 $lang['online_meeting'] = "Live Reyinyon" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Kounye a" ;
+$lang['waiting'] = "Ap tann" ;
+$lang['started'] = "Kòmanse" ;
+$lang['use_zoom_client_app'] = "Sèvi Ak Rale Kliyan App" ;
+$lang['teacher_api_credential'] = "Pwofesè Api Diplòm" ;
+$lang['meeting_not_started'] = "Reyinyon An Yo Pa Te Kòmanse" ;
+ ?>

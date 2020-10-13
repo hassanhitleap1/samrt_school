@@ -1443,4 +1443,13 @@ $lang['setting'] = "Gosod" ;
 $lang['host'] = "Llu" ;
 $lang['online_classes'] = "Dosbarthiadau Byw" ;
 $lang['online_meeting'] = "Cyfarfodydd Byw" ;
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Nawr" ;
+$lang['waiting'] = "Aros" ;
+$lang['started'] = "Dechreuwyd" ;
+$lang['use_zoom_client_app'] = "Defnyddiwch Chwyddo Cleient App" ;
+$lang['teacher_api_credential'] = "Athro Api Credential" ;
+$lang['meeting_not_started'] = "Cyfarfod Yn Dechrau" ;
 ?>

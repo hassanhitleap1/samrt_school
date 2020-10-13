@@ -1443,4 +1443,13 @@ $lang['setting'] = "Задание" ;
 $lang['host'] = "Хозяин" ;
 $lang['online_classes'] = "Живые Классы" ;
 $lang['online_meeting'] = "Живые Встречи" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Сейчас" ;
+$lang['waiting'] = "Ожидание" ;
+$lang['started'] = "Начало" ;
+$lang['use_zoom_client_app'] = "Использовать Клиент Масштабирование Приложения" ;
+$lang['teacher_api_credential'] = "АПИ Преподаватель Учетных Данных" ;
+$lang['meeting_not_started'] = "Встреча Не Началось" ;
+ ?>

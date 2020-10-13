@@ -1443,4 +1443,13 @@ $lang['setting'] = "Pengaturan" ;
 $lang['host'] = "Host" ;
 $lang['online_classes'] = "Tinggal Kelas" ;
 $lang['online_meeting'] = "Pertemuan Langsung" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Sekarang" ;
+$lang['waiting'] = "Menunggu" ;
+$lang['started'] = "Mulai" ;
+$lang['use_zoom_client_app'] = "Menggunakan Zoom Aplikasi Klien" ;
+$lang['teacher_api_credential'] = "Guru Api Credential" ;
+$lang['meeting_not_started'] = "Rapat Belum Dimulai" ;
+ ?>

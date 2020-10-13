@@ -1443,4 +1443,13 @@ $lang['setting'] ="설정" ;
 $lang['host'] ="호스팅" ;
 $lang['online_classes'] ="라이브 클래스" ;
 $lang['online_meeting'] ="라이브 미팅" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] ="지금" ;
+$lang['waiting'] ="기다리고 있" ;
+$lang['started'] ="시작" ;
+$lang['use_zoom_client_app'] ="확대/축소를 사용하여 클라이언트 응용 프로그램" ;
+$lang['teacher_api_credential'] ="선생님 자" ;
+$lang['meeting_not_started'] ="회의에서 시작되지 않" ;
+ ?>

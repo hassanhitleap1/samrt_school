@@ -1443,4 +1443,13 @@ $lang['setting'] = "Roghainn" ;
 $lang['host'] = "Host" ;
 $lang['online_classes'] = "Live Clasaichean" ;
 $lang['online_meeting'] = "Live Coinneamhan" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "A-nis" ;
+$lang['waiting'] = "A ' feitheamh" ;
+$lang['started'] = "Air tòiseachadh" ;
+$lang['use_zoom_client_app'] = "Cleachd Sùm A 'Chliant App" ;
+$lang['teacher_api_credential'] = "Tidsear Api Credential" ;
+$lang['meeting_not_started'] = "A' Coinneachadh Cha Do Thòisich" ;
+ ?>

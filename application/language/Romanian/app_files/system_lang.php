@@ -1443,4 +1443,13 @@ $lang['setting'] = "Setarea" ;
 $lang['host'] = "Gazdă" ;
 $lang['online_classes'] = "Live Clase" ;
 $lang['online_meeting'] = "Întâlniri Vii" ;
-?>
+
+#Zoom Live Class 2.0
+ 
+$lang['now'] = "Acum" ;
+$lang['waiting'] = "În așteptare" ;
+$lang['started'] = "Început" ;
+$lang['use_zoom_client_app'] = "Utilizarea Zoom Aplicația Client" ;
+$lang['teacher_api_credential'] = "Profesor Api Acreditare" ;
+$lang['meeting_not_started'] = "Ședința Nu A Început" ;
+ ?>

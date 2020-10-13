@@ -1442,4 +1442,13 @@ $lang['setting'] = "Leagan" ;
 $lang['host'] = "Ósta" ;
 $lang['online_classes'] = "Ranganna Beo" ;
 $lang['online_meeting'] = "Beo Cruinnithe" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Anois" ;
+$lang['waiting'] = "Fanacht" ;
+$lang['started'] = "Thosaigh" ;
+$lang['use_zoom_client_app'] = "A Úsáid Súmáil Cliant App" ;
+$lang['teacher_api_credential'] = "Múinteoir Api Credential" ;
+$lang['meeting_not_started'] = "Cruinniú Nach Thosaigh" ;
+ ?>

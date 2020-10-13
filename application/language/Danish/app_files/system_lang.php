@@ -1444,4 +1444,13 @@ $lang['setting'] = "Indstilling" ;
 $lang['host'] = "Host" ;
 $lang['online_classes'] = "Live Klasser" ;
 $lang['online_meeting'] = "Live-Møder" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Nu" ;
+$lang['waiting'] = "Venter" ;
+$lang['started'] = "I gang" ;
+$lang['use_zoom_client_app'] = "Brug Zoom-Klient App" ;
+$lang['teacher_api_credential'] = "Lærer Api Credential" ;
+$lang['meeting_not_started'] = "Møde-Ikke Startet" ;
+ ?>

@@ -1442,5 +1442,14 @@ $lang['zoom_live_classes'] = "Zoom Dzīvot Klasēs" ;
 $lang['setting'] = "Setting" ;
 $lang['host'] = "Uzņēmējas" ;
 $lang['online_classes'] = "Dzīvot Klasēs" ;
-$lang['online_meeting'] = "Dzīvot Tikšanās" ;
-?>
+$lang['online_meeting'] = "Dzīvot Tikšanās" ; 
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Tagad" ;
+$lang['waiting'] = "Gaidīšana" ;
+$lang['started'] = "Sāka" ;
+$lang['use_zoom_client_app'] = "Izmantojiet Tālummaiņas Klienta Lietotni" ;
+$lang['teacher_api_credential'] = "Skolotājs Api Credential" ;
+$lang['meeting_not_started'] = "Sapulce Nav Sākts" ;
+ ?>

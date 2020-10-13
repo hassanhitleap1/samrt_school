@@ -1443,4 +1443,13 @@ $lang['setting'] = "Configuración" ;
 $lang['host'] = "Host" ;
 $lang['online_classes'] = "Clases Vivas" ;
 $lang['online_meeting'] = "En Vivo Las Reuniones" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Ahora" ;
+$lang['waiting'] = "A la espera" ;
+$lang['started'] = "Iniciado" ;
+$lang['use_zoom_client_app'] = "Uso Del Zoom Aplicación De Cliente" ;
+$lang['teacher_api_credential'] = "Maestro De La Api De Credencial" ;
+$lang['meeting_not_started'] = "La Reunión No Se Inicia" ;
+ ?>

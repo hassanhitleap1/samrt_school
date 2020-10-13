@@ -1444,4 +1444,13 @@ $lang['setting'] = "Instelling" ;
 $lang['host'] = "Gasheer" ;
 $lang['online_classes'] = "Live Klasse" ;
 $lang['online_meeting'] = "Live Vergaderings" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Nou" ;
+$lang['waiting'] = "Wag" ;
+$lang['started'] = "Begin" ;
+$lang['use_zoom_client_app'] = "Gebruik Zoom Kliënt App" ;
+$lang['teacher_api_credential'] = "Juffrou Api Bewyse" ;
+$lang['meeting_not_started'] = "Vergadering Nie Begin" ;
+ ?>

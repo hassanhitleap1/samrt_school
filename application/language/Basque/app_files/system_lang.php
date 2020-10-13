@@ -1444,4 +1444,13 @@ $lang['setting'] = "Ezarpena" ;
 $lang['host'] = "Ostalari" ;
 $lang['online_classes'] = "Bizi Klaseak" ;
 $lang['online_meeting'] = "Zuzeneko Bilerak" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Orain" ;
+$lang['waiting'] = "Zain" ;
+$lang['started'] = "Hasi" ;
+$lang['use_zoom_client_app'] = "Erabili Zoom Bezero Aplikazioa" ;
+$lang['teacher_api_credential'] = "Irakasle Api Kredentzial" ;
+$lang['meeting_not_started'] = "Bilera Ez Hasi" ;
+ ?>

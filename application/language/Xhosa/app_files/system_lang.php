@@ -1443,4 +1443,13 @@ $lang['setting'] = "Ukumisela" ;
 $lang['host'] = "Umququzeleli" ;
 $lang['online_classes'] = "Live Iindidi" ;
 $lang['online_meeting'] = "Live Iintlanganiso" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Ngoku" ;
+$lang['waiting'] = "Ukulinda" ;
+$lang['started'] = "Iqalwe" ;
+$lang['use_zoom_client_app'] = "Sebenzisa Yandisa Umxhasi-App" ;
+$lang['teacher_api_credential'] = "Utitshala Api Credential" ;
+$lang['meeting_not_started'] = "Intlanganiso Hayi Iqalwe" ;
+ ?>

@@ -1442,5 +1442,14 @@ $lang['zoom_live_classes'] = "Zoom Lifandi Flokkum" ;
 $lang['setting'] = "Stillingu" ;
 $lang['host'] = "Gestgjafi" ;
 $lang['online_classes'] = "Lifandi Flokkum" ;
-$lang['online_meeting'] = "Lifandi Fundum" ;
-?>
+$lang['online_meeting'] = "Lifandi Fundum" ; 
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Nú" ;
+$lang['waiting'] = "Bíða" ;
+$lang['started'] = "Byrjaði" ;
+$lang['use_zoom_client_app'] = "Nota Zoom Viðskiptavinur App" ;
+$lang['teacher_api_credential'] = "Kennari Api Persónuskilríki" ;
+$lang['meeting_not_started'] = "Fundi Ekki Byrjað" ;
+ ?>

@@ -1447,4 +1447,13 @@ $lang['setting'] = "Tapşırıq" ;
 $lang['host'] = "Host" ;
 $lang['online_classes'] = "Canlı Dərsləri" ;
 $lang['online_meeting'] = "Canlı Görüş" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "İndi" ;
+$lang['waiting'] = "İntizar" ;
+$lang['started'] = "Start" ;
+$lang['use_zoom_client_app'] = "İstifadə Müştəri Zoom App" ;
+$lang['teacher_api_credential'] = "APİ-nin Müəllimi Uçot Məlumatları" ;
+$lang['meeting_not_started'] =" Görüşü Deyil Başladı" ;
+ ?>

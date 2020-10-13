@@ -1442,5 +1442,14 @@ $lang['zoom_live_classes'] ="拡大生の授業" ;
 $lang['setting'] ="設定" ;
 $lang['host'] ="ホスト" ;
 $lang['online_classes'] ="生授業" ;
-$lang['online_meeting'] ="ライブ会議" ;
-?>
+$lang['online_meeting'] ="ライブ会議" ; 
+
+#Zoom Live Class 2.0
+
+$lang['now'] ="今" ;
+$lang['waiting'] ="の待ち" ;
+$lang['started'] ="開始しました" ;
+$lang['use_zoom_client_app'] ="利用ズームランティア" ;
+$lang['teacher_api_credential'] ="教師Api資格" ;
+$lang['meeting_not_started'] ="の会合が開始されていない" ;
+ ?>

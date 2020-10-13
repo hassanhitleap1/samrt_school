@@ -1443,4 +1443,13 @@ $lang['setting'] = "መቼት" ;
 $lang['host'] = "ተጠቃሚ" ;
 $lang['online_classes'] = "ቅድሚያ የሚሰጡዋቸውን" ;
 $lang['online_meeting'] = "መኖር ስብሰባዎች" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "አሁን" ;
+$lang['waiting'] = "አዳዲስ" ;
+$lang['started'] = "ጀመርን" ;
+$lang['use_zoom_client_app'] = "ይገናኛሉ በይፋ ቅድሚያ በመስጠት" ;
+$lang['teacher_api_credential'] = "አስተማሪ ኤፒአይ Credential" ;
+$lang['meeting_not_started'] = "ስብሰባ አልተጀመረም" ;
+ ?>

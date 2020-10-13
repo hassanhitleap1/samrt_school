@@ -1443,5 +1443,14 @@ $lang['zoom_live_classes'] = "Zoom Živjeti Časove" ;
 $lang['setting'] = "Zalazi" ;
 $lang['host'] = "Biti domaćin" ;
 $lang['online_classes'] = "Živim Časove" ;
-$lang['online_meeting'] = "Živim Sastanaka" ;
-?>
+$lang['online_meeting'] = "Živim Sastanaka" ; 
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Sada" ;
+$lang['waiting'] = "Čekajući" ;
+$lang['started'] = "Počeo" ;
+$lang['use_zoom_client_app'] = "Koristiti Zoom Klijent Aplikaciju" ;
+$lang['teacher_api_credential'] = "Učitelj Api Zvanje" ;
+$lang['meeting_not_started'] = "Sastanak Nije Počeo" ;
+ ?>

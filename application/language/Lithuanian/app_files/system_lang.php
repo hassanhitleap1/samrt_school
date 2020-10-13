@@ -1443,4 +1443,13 @@ $lang['setting'] = "Setting" ;
 $lang['host'] = "Host" ;
 $lang['online_classes'] = "Live Klases" ;
 $lang['online_meeting'] = "Gyvi Susitikimai" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Dabar" ;
+$lang['waiting'] = "Laukimas" ;
+$lang['started'] = "Pradėjo" ;
+$lang['use_zoom_client_app'] = "Naudoti Zoom Kliento App" ;
+$lang['teacher_api_credential'] = "Mokytojas Api Pažymėjimus" ;
+$lang['meeting_not_started'] = "Susitikimas Nėra Pradėtas" ;
+ ?>

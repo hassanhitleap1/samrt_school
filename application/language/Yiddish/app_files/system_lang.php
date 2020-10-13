@@ -1445,4 +1445,13 @@ $lang['setting'] = "באַשטעטיקן" ;
 $lang['host'] = "באַלעבאָס" ;
 $lang['online_classes'] = "לייוו קלאסן" ;
 $lang['online_meeting'] = "לייוו מיטינגז" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "איצט" ;
+$lang['waiting'] = "ווארטן" ;
+$lang['started'] = "אנגעהויבן" ;
+$lang['use_zoom_client_app'] = "נוצן פארגרעסער קליענט אַפּ" ;
+$lang['teacher_api_credential'] = "רבי אַפּי קרעדענטיאַל" ;
+$lang['meeting_not_started'] = "באַגעגעניש ניט סטאַרטעד" ;
+ ?>

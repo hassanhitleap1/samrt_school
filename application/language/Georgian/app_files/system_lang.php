@@ -1443,4 +1443,13 @@ $lang['setting'] = "შექმნის" ;
 $lang['host'] = "მასპინძელი" ;
 $lang['online_classes'] = "ცოცხალი კლასი" ;
 $lang['online_meeting'] = "ცოცხალი შეხვედრები" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "ახლა" ;
+$lang['waiting'] = "ელოდება" ;
+$lang['started'] = "დაიწყო" ;
+$lang['use_zoom_client_app'] = "გამოიყენეთ Zoom კლიენტი App" ;
+$lang['teacher_api_credential'] = "მასწავლებელი Api დიპლომი" ;
+$lang['meeting_not_started'] = "შეხვედრა არ დაიწყო" ;
+ ?>

@@ -1443,4 +1443,13 @@ $lang['setting'] = "Setting" ;
 $lang['host'] = "హోస్ట్" ;
 $lang['online_classes'] = "Live తరగతులు" ;
 $lang['online_meeting'] = "లైవ్ సమావేశాలు" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "ఇప్పుడు" ;
+$lang['waiting'] = "వేచి" ;
+$lang['started'] = "ప్రారంభించారు." ;
+$lang['use_zoom_client_app'] = "Use జూమ్ క్లయింట్ అనువర్తనం" ;
+$lang['teacher_api_credential'] = "గురువు Api ప్రమాణ పత్రం" ;
+$lang['meeting_not_started'] = "సమావేశం ప్రారంభించారు లేదు" ;
+ ?>

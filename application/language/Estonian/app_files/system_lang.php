@@ -1443,4 +1443,13 @@ $lang['setting'] = "Seadistus" ;
 $lang['host'] = "Host" ;
 $lang['online_classes'] = "Live Klasside" ;
 $lang['online_meeting'] = "Live Kohtumised" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Nüüd" ;
+$lang['waiting'] = "Ootel" ;
+$lang['started'] = "Käivitatud" ;
+$lang['use_zoom_client_app'] = "Kasutada Zoom Klient App" ;
+$lang['teacher_api_credential'] = "Õpetaja Api Mandaat" ;
+$lang['meeting_not_started'] = "Kohtumine Ei Alanud" ;
+ ?>

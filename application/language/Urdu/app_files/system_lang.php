@@ -1443,4 +1443,13 @@ $lang['setting'] = "ترتیب" ;
 $lang['host'] = "میزبان" ;
 $lang['online_classes'] = "لائیو کلاسوں" ;
 $lang['online_meeting'] = "رہتے ہیں ملاقاتوں" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "اب" ;
+$lang['waiting'] = "انتظار" ;
+$lang['started'] = "شروع کر دیا" ;
+$lang['use_zoom_client_app'] = "استعمال زوم کلائنٹ اے پی پی" ;
+$lang['teacher_api_credential'] = "استاد Api سند" ;
+$lang['meeting_not_started'] = "اجلاس شروع نہیں" ;
+ ?>

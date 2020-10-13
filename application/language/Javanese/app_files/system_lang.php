@@ -1442,5 +1442,14 @@ $lang['zoom_live_classes'] = "Zoom Kelas Manggon" ;
 $lang['setting'] = "Setelan" ;
 $lang['host'] = "Inang" ;
 $lang['online_classes'] = "Kelas Manggon" ;
-$lang['online_meeting'] = "Manggon Rapat-Rapat" ;
-?>
+$lang['online_meeting'] = "Manggon Rapat-Rapat" ; 
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Saiki" ;
+$lang['waiting'] = "Nunggu" ;
+$lang['started'] = "Miwiti" ;
+$lang['use_zoom_client_app'] = "Nggunakake Zoom App Klien" ;
+$lang['teacher_api_credential'] = "Guru Api Credential" ;
+$lang['meeting_not_started'] = "Patemon Ora Diwiwiti" ;
+ ?>

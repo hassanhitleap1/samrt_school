@@ -1444,4 +1444,13 @@ $lang['setting'] = "Vendosjen" ;
 $lang['host'] = "Presë" ;
 $lang['online_classes'] = "Live I Klasave" ;
 $lang['online_meeting'] = "Live Mbledhjet" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Tani" ;
+$lang['waiting'] = "Në pritje" ;
+$lang['started'] = "Filloi" ;
+$lang['use_zoom_client_app'] = "Përdorni Zoom Zmadhues Klienti App" ;
+$lang['teacher_api_credential'] = "Mësuesi Api Kredenciale" ;
+$lang['meeting_not_started'] = "Takimi Nuk Ka Filluar" ;
+ ?>

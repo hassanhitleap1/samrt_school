@@ -1442,5 +1442,14 @@ $lang['zoom_live_classes'] = "Zoom Амьд Хичээл" ;
 $lang['setting'] = "Тохиргоо" ;
 $lang['host'] = "Хост" ;
 $lang['online_classes'] = "Амьд Хичээл" ;
-$lang['online_meeting'] = "Амьд Уулзалт" ;
-?>
+$lang['online_meeting'] = "Амьд Уулзалт" ; 
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Одоо" ;
+$lang['waiting'] = "Хүлээж" ;
+$lang['started'] = "Эхэлсэн" ;
+$lang['use_zoom_client_app'] = "Ашиглах Zoom Клиент Програм" ;
+$lang['teacher_api_credential'] = "Багш Api Итгэмжлэлүүдийн" ;
+$lang['meeting_not_started'] = "Уулзалт Биш Эхэлсэн" ;
+ ?>

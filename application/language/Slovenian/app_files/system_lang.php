@@ -1442,5 +1442,14 @@ $lang['zoom_live_classes'] = "Zoom Živo Razredov" ;
 $lang['setting'] = "Nastavitev" ;
 $lang['host'] = "Host" ;
 $lang['online_classes'] = "V Živo Razredov" ;
-$lang['online_meeting'] = "V Živo Srečanja" ;
-?>
+$lang['online_meeting'] = "V Živo Srečanja" ; 
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Zdaj" ;
+$lang['waiting'] = "Čaka" ;
+$lang['started'] = "Začetek" ;
+$lang['use_zoom_client_app'] = "Uporabite Povečavo Odjemalec App" ;
+$lang['teacher_api_credential'] = "Učitelj Api Spričevalo" ;
+$lang['meeting_not_started'] = "Srečanje Ni Začelo" ;
+ ?>

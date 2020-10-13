@@ -1,7 +1,5 @@
 <?php
-
 #Version 3.0.1
-
 $lang['absent'] = 'अनुपस्थित' ;
 $lang['absent_student'] = 'अनुपस्थित छात्र' ;
 $lang['academic_fees_detail'] = 'शैक्षणिक फीस विस्तार' ;
@@ -21,7 +19,7 @@ $lang['add_category'] = 'श्रेणी में जोड़ें' ;
 $lang['add_class'] =' जोड़ें  क्लास' ;
 $lang['add_exam'] =' जोड़ें  परीक्षा' ;
 $lang['add_expense'] =' जोड़ें  कीमत' ;
-$lang['add_expense_head'] = 'खर्च जोड़ने सिर' ;
+$lang['add_expense_head'] = 'खर्च जोड़ने सिर' ; 
 $lang['add_fee_category'] =' जोड़ें  शुल्क श्रेणी' ;
 $lang['add_fees'] = 'जोड़ें  फीस' ;
 $lang['add_fees_discount'] = 'जोड़ें  शुल्क छूट' ;
@@ -1446,4 +1444,19 @@ $lang['setting'] = "सेटिंग" ;
 $lang['host'] = "मेजबान" ;
 $lang['online_classes'] = "जीने की कक्षाओं" ;
 $lang['online_meeting'] = "लाइव बैठकों" ;
-?>
+$lang['now'] = "अब" ;
+$lang['waiting'] = "प्रतीक्षा" ;
+$lang['started'] = "शुरू" ;
+$lang['use_zoom_client_app'] = "का उपयोग ज़ूम ग्राहक अनुप्रयोग" ;
+$lang['teacher_api_credential'] = "शिक्षक एपीआई क्रेडेंशियल" ;
+$lang['meeting_not_started'] = "बैठक शुरू नहीं किया" ; 
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "अब" ;
+$lang['waiting'] = "प्रतीक्षा" ;
+$lang['started'] = "शुरू" ;
+$lang['use_zoom_client_app'] = "का उपयोग ज़ूम ग्राहक अनुप्रयोग" ;
+$lang['teacher_api_credential'] = "शिक्षक एपीआई क्रेडेंशियल" ;
+$lang['meeting_not_started'] = "बैठक शुरू नहीं किया" ;
+ ?>

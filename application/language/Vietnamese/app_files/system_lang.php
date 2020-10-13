@@ -1443,4 +1443,13 @@ $lang['setting'] = "Đặt" ;
 $lang['host'] = "Chủ" ;
 $lang['online_classes'] = "Lớp Học Trực Tiếp" ;
 $lang['online_meeting'] = "Sống Cuộc Họp" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Bây giờ" ;
+$lang['waiting'] = "Chờ" ;
+$lang['started'] = "Bắt đầu" ;
+$lang['use_zoom_client_app'] = "Sử Dụng Phóng Khách Hàng Dụng" ;
+$lang['teacher_api_credential'] = "Giáo Viên Api Ủy Nhiệm" ;
+$lang['meeting_not_started'] = "Gặp Gỡ Không Bắt Đầu" ;
+ ?>

@@ -1443,4 +1443,13 @@ $lang['setting'] = "Прилагодување" ;
 $lang['host'] = "Домаќин" ;
 $lang['online_classes'] = "Во Живо Класи" ;
 $lang['online_meeting'] = "Во Живо Средби" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Сега" ;
+$lang['waiting'] = "На чекање" ;
+$lang['started'] = "Почеток" ;
+$lang['use_zoom_client_app'] = "Користете Зум Клиентот Стан" ;
+$lang['teacher_api_credential'] = "Учителе Api Сертификат" ;
+$lang['meeting_not_started'] = "Состанок Не Започна" ;
+ ?>

@@ -1443,4 +1443,13 @@ $lang['setting'] = "Fikso" ;
 $lang['host'] = "Gastiganto" ;
 $lang['online_classes'] = "Live Klasoj" ;
 $lang['online_meeting'] = "Live Renkontiĝoj" ;
-?>
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Nun" ;
+$lang['waiting'] = "Atendanta" ;
+$lang['started'] = "Komencis" ;
+$lang['use_zoom_client_app'] = "Uzi Zomi Kliento App" ;
+$lang['teacher_api_credential'] = "Instruisto Api Credential" ;
+$lang['meeting_not_started'] = "Kunveno Ne Komencis" ;
+ ?>

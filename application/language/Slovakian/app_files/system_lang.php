@@ -1442,5 +1442,14 @@ $lang['zoom_live_classes'] = "Zoom Live Triedy" ;
 $lang['setting'] = "Nastavenie" ;
 $lang['host'] = "Host" ;
 $lang['online_classes'] = "Live Triedy" ;
-$lang['online_meeting'] = "Live Stretnutia" ;
-?>
+$lang['online_meeting'] = "Live Stretnutia" ; 
+
+#Zoom Live Class 2.0
+
+$lang['now'] = "Teraz" ;
+$lang['waiting'] = "Waiting" ;
+$lang['started'] = "Začíname" ;
+$lang['use_zoom_client_app'] = "Vzdialenie Klienta App" ;
+$lang['teacher_api_credential'] = "Učiteľ Api Poverenia" ;
+$lang['meeting_not_started'] = "Stretnutie Nie Začal" ;
+ ?>
