@@ -15,6 +15,7 @@ class Examgroup extends Admin_Controller
         parent::__construct();
         $this->load->library('encoding_lib');
         $this->load->library('mailsmsconf');
+        $this->load->helper('custom_helper');
         $this->exam_type           = $this->config->item('exam_type');
         $this->sch_current_session = $this->setting_model->getCurrentSession();
         $this->attendence_exam     = $this->config->item('attendence_exam');
@@ -637,51 +638,53 @@ class Examgroup extends Admin_Controller
             $not_be_del = array();
 
             $rows = $this->input->post('rows');
-            foreach ($rows as $row_key => $row_value) {
 
+            foreach ($_POST as $row_key => $row_value) {
+                
                 $update_id = $this->input->post('prev_row[' . $row_value . ']');
                 if ($update_id == 0) {
-
+                    
                     if ($this->input->post('exam_group_class_batch_exam_id') != ""
-                        && $this->input->post('subject_' . $row_value) != ""
-                        && $this->input->post('date_from_' . $row_value) != ""
-                        && $this->input->post('time_from' . $row_value) != ""
-                        && $this->input->post('duration' . $row_value) != ""
-                        && $this->input->post('max_marks_' . $row_value) != ""
-                        && $this->input->post('min_marks_' . $row_value) != "") {
-
+                        && $_POST['subject_' . $row_value] != ""
+                        && $_POST['date_from_' . $row_value] != ""
+                        && $_POST['time_from' . $row_value] != ""
+                        && $_POST['duration' . $row_value] != ""
+                        && $_POST['max_marks_' . $row_value] != ""
+                        && $_POST['min_marks_' . $row_value] != "") {
+                           
                         $insert_array[] = array(
 
-                            'exam_group_class_batch_exams_id' => $this->input->post('exam_group_class_batch_exam_id'),
-                            'subject_id'                      => $this->input->post('subject_' . $row_value),
-                            'credit_hours'                    => $this->input->post('credit_hours' . $row_value),
-                            'date_from'                       => date('Y-m-d', $this->customlib->datetostrtotime($this->input->post('date_from_' . $row_value))),
-                            'time_from'                       => $this->input->post('time_from' . $row_value),
-                            'duration'                        => $this->input->post('duration' . $row_value),
-                            'room_no'                         => $this->input->post('room_no_' . $row_value),
-                            'max_marks'                       => $this->input->post('max_marks_' . $row_value),
-                            'min_marks'                       => $this->input->post('min_marks_' . $row_value),
+                            'exam_group_class_batch_exams_id' => $_POST['exam_group_class_batch_exam_id'],
+                            'subject_id'                      => $_POST['subject_' . $row_value],
+                            'credit_hours'                    => $_POST['credit_hours' . $row_value],
+                            'date_from'                       => date('Y-m-d', $this->customlib->datetostrtotime(convert2english($_POST['date_from_' . $row_value]))),
+                            'time_from'                       => convert2english($_POST['time_from' . $row_value]),
+                            'duration'                        => $_POST['duration' . $row_value],
+                            'room_no'                         => $_POST['room_no_' . $row_value],
+                            'max_marks'                       => $_POST['max_marks_' . $row_value],
+                            'min_marks'                       => $_POST['min_marks_' . $row_value],
                         );
                     }
 
                 } else {
                     $not_be_del[]   = $update_id;
+                  
                     $update_array[] = array(
                         'id'                              => $update_id,
-                        'credit_hours'                    => $this->input->post('credit_hours_' . $row_value),
-                        'exam_group_class_batch_exams_id' => $this->input->post('exam_group_class_batch_exam_id'),
-                        'subject_id'                      => $this->input->post('subject_' . $row_value),
-                        'date_from'                       => date('Y-m-d', $this->customlib->datetostrtotime($this->input->post('date_from_' . $row_value))),
-                        'time_from'                       => $this->input->post('time_from' . $row_value),
-                        'duration'                        => $this->input->post('duration' . $row_value),
-                        'room_no'                         => $this->input->post('room_no_' . $row_value),
-                        'max_marks'                       => $this->input->post('max_marks_' . $row_value),
-                        'min_marks'                       => $this->input->post('min_marks_' . $row_value),
+                        'credit_hours'                    => convert2english($_POST['credit_hours_' . $row_value]),
+                        'exam_group_class_batch_exams_id' => $_POST['exam_group_class_batch_exam_id'],
+                        'subject_id'                      => $_POST['subject_' . $row_value],
+                        'date_from'                       => date('Y-m-d', $this->customlib->datetostrtotime(convert2english($_POST['date_from_' . $row_value]))),
+                        'time_from'                       => convert2english($_POST['time_from' . $row_value]),
+                        'duration'                        => $_POST['duration' . $row_value],
+                        'room_no'                         => $_POST['room_no_' . $row_value],
+                        'max_marks'                       => $_POST['max_marks_' . $row_value],
+                        'min_marks'                       => $_POST['min_marks_' . $row_value],
                     );
                 }
             }
 
-            $this->examsubject_model->add($insert_array, $update_array, $not_be_del, $this->input->post('exam_group_class_batch_exam_id'));
+            $this->examsubject_model->add($insert_array, $update_array, $not_be_del, $_POST['exam_group_class_batch_exam_id']);
 
             $array = array('status' => '1', 'error' => '', 'message' => $this->lang->line('success_message'));
         }
