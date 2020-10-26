@@ -125,6 +125,11 @@ class Onlineexam extends Student_Controller
         $question_status = 0;
         $recordid        = $this->input->post('recordid');
         $exam            = $this->onlineexam_model->get($recordid);
+        // $today= date('Y-m-d');
+
+        // if($exam[0]->exam_from <= $today  && $exam[0]->exam_to  >=  $today ){
+           
+        // }
 
         $data['questions']             = $this->onlineexam_model->getExamQuestions($recordid);
         $student_current_class         = $this->customlib->getStudentCurrentClsSection();
