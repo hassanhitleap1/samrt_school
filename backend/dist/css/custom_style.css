@@ -7,3 +7,18 @@
     overflow: hidden;
     text-overflow: ellipsis;
 }
+
+.wrapper{
+    font-size: initial !important;
+    font-size: large  !important;
+  }
+  
+  .verticalmenu{
+     font-size: initial !important;
+    font-size: large  !important;  
+  }
+  
+  .treeview-menu{
+        font-size: initial !important;
+    font-size: large  !important;  
+  }
